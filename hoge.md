@@ -1,35 +1,98 @@
-# python
-## コード
-sa
-`hoge`
-
-```python
-import numpy as np
-
-list = np.array([2.4, 0.3, 1.2])
-max = np.max(list)
-```
+# 自己紹介
 
 >>>
 
-## コードの説明
-safa
+## 好きなもの
+
+* 猫
+* あさりの酒蒸し
+* あじのたたき
+
+>>>
+
+## 所属
+* 新潟大学
+* 工学部
+* 情報工学科
+* 3年
+
+>>>
+
+## 生い立ち
+
+* 静岡生まれ
+* 埼玉/栃木育ち
+* 新潟在住
 
 ---
 
-# sadf
-a
+# プログラミング
 
 >>>
 
-## sa
+## Python
+趣味で面白そうと思ったものをちょこちょこいじってます.
 
-fdsa
+* OpenCV
+* gensim
+* Django
+* matplotlib など
+
+TensorFlowもやりたいなぁ
 
 >>>
 
-## sa
+## JavaScript
+最初にやっていたのでその延長でたまに触ってます.
+
+* Vue.js
+
+フロントサイドがすらすら書けるとカッコ良いよなぁ
+
+>>>
+
+## Go
+AtCoderとかでPython遅すぎない??ってなったのでやり始めました.  
+
+それ以上でもそれ以下でもないです.
+
+>>>
+
+## Java
+Androidのアプリ作る時に軽く触ったくらい.  
+やらないとな〜とは思うけどやる気が出ない.
+
+>>>
+
+## C
+学校で習っただけ.  
+特に触ろうとも思わない.
+
+>>>
+
+## 触っただけ
+
+* C++
+* PHP
+* Rust
+* C#
+* VBA
+* bash
+* Ruby
 
 ---
 
-おしまい
+# リンク
+
+>>>
+
+* ホームページ?  
+https://haru1843.github.io/profile/
+* Qiita  
+https://qiita.com/haru1843
+* Twitter  
+https://twitter.com/OotNp
+
+---
+
+# おしまい
