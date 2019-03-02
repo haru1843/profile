@@ -101,14 +101,13 @@ Androidのアプリ作る時に軽く触ったくらい.
 
 >>>
 
-* このプロフィール
+* このプロフィール  
 https://haru1843.github.io/profile/
 * Qiita  
 https://qiita.com/haru1843
 * Twitter  
 https://twitter.com/haru1843inf
-* 質問箱(マシュマロ)  
-https://marshmallow-qa.com/haru1843inf
+* 質問箱(マシュマロ) は [こちら](https://marshmallow-qa.com/haru1843inf?utm_medium=url_text&utm_source=promotion)
 
 ---
 
